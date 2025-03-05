@@ -1,0 +1,28 @@
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\bin\Debug\net8.0\Aufgabe1.exe
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\bin\Debug\net8.0\Aufgabe1.deps.json
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\bin\Debug\net8.0\Aufgabe1.runtimeconfig.json
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\bin\Debug\net8.0\Aufgabe1.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\bin\Debug\net8.0\Aufgabe1.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\Aufgabe1.AssemblyInfo.cs
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\Aufgabe1.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\refint\Aufgabe1.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\Aufgabe1.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\Aufgabe1.genruntimeconfig.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Aufgabe 1\Aufgabe1\obj\Debug\net8.0\ref\Aufgabe1.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\bin\Debug\net8.0\Aufgabe1.exe
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\bin\Debug\net8.0\Aufgabe1.deps.json
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\bin\Debug\net8.0\Aufgabe1.runtimeconfig.json
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\bin\Debug\net8.0\Aufgabe1.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\bin\Debug\net8.0\Aufgabe1.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\Aufgabe1.AssemblyInfo.cs
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\Aufgabe1.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\refint\Aufgabe1.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\Aufgabe1.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\Aufgabe1.genruntimeconfig.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Würfelspiel\Aufgabe1\obj\Debug\net8.0\ref\Aufgabe1.dll
